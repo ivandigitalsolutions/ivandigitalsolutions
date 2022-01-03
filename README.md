@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, Welecome to Ivan Digital Solution</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Content Creator | Learner
+Application Development | Web Development | Coustom Software Develpment
 
 ?></h3>
 
@@ -46,10 +46,10 @@ Programmer | Content Creator | Learner
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br />
 ### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=NoobMahbub.visitor-badge&left_color=blue&right_color=yellow)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ivandigitalsolutions.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=NoobMahbub&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
+[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=ivandigitalsolutions&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -57,9 +57,21 @@ Programmer | Content Creator | Learner
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivandigitalsolutions "&show_icons=true&locale=en&layout=compact" alt="Ivan Digital Solution" /></p>
   
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/ivandigitalsolutions" alt="ivandigitalsolution" /></a> </p></h1>
+  <a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivandigitalsolutions&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
+<a href="https://github.com/iampawan/FlutterExampleApps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ivandigitalsolution "&show_icons=true&locale=en" alt="Ivan Digital Solution" /></p>
+</a>
+<a href="https://github.com/iampawan/VelocityX">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+</a>
+
+<div align="center">
 
 [website]: https://TechHelpBD.com
 [facebook]: https://facebook.com/MahbubDev

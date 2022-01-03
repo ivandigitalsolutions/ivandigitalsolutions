@@ -57,9 +57,9 @@ Programmer | Content Creator | Learner
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivandigitalsolutions "&show_icons=true&locale=en&layout=compact" alt="Ivan Digital Solution" /></p>
   
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivandigitalsolution" alt="ivandigitalsolution" /></a> </p></h1>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/ivandigitalsolutions" alt="ivandigitalsolution" /></a> </p></h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ivandigitalsolution&show_icons=true&locale=en" alt="Ivan Digital Solution" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ivandigitalsolution "&show_icons=true&locale=en" alt="Ivan Digital Solution" /></p>
 
 [website]: https://TechHelpBD.com
 [facebook]: https://facebook.com/MahbubDev

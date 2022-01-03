@@ -57,10 +57,10 @@ Application Development | Web Development | Coustom Software Develpment
 
 
   
-  <a href="https://github.com/ivandigitalsolutions">
+  <p <a href="https://github.com/ivandigitalsolutions">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivandigitalsolutions&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a><br>
-  
+</a></p>
+  <br>
   <a href="https://github.com/ivandigitalsolutions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivandigitalsolutions&theme=light&hide_langs_below=1" />
 </a><br>

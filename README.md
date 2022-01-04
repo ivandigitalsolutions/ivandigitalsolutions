@@ -1,28 +1,28 @@
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, Welecome to Ivan Digital Solution</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Application Development | Web Development | Coustom Software Develpment></h3><br>
+App/Web Development | AI&ML Development | Coustom Software Develpment</h3><br>
 
 
 - 🔭 Welcome to **Ivan Digital Solutions**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 We Are currently Working On **Unique Machine Learning Project**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 We are  collaborated to **AT&T**
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **ivandigitalsolutions@gmail.com**
 
-- ⚡ Fun fact ** we are StartUp**  
+- ⚡ Fun fact ** we are  StartUp**  
 
 <h2>About us:</h2>
 <h3> We stepped into the software solution world 7 years ago. Since then, we have built a robust squad of highly qualified IT professionals. 
 Our goal has always been to provide highly quality innovative Digital solutions to clients of all scales and with different requirements.
  We have worked sincerely, learnt every day with comprehensive Approch with every single project that we have delivered. 
 
-IDS provide best leverage progressive solution to our clients .we aim to create future-Oriented solution for
-our clients in thire conventional Business module.</h3>
+IDS provide best leverage progressive solution to our clients .We aim to create Future-Oriented solution for
+our clients in thire Conventional Business Module.</h3>
 
 
 
